@@ -1,0 +1,33 @@
+{
+  "name": "webpackdemo",
+  "version": "0.0.1",
+  "description": "the demo of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iigrow/webpackdemo.git"
+  },
+  "keywords": [
+    "webpack",
+    "demo"
+  ],
+  "author": "iigrow@outlook.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iigrow/webpackdemo/issues"
+  },
+  "homepage": "https://github.com/iigrow/webpackdemo#readme",
+  "devDependencies": {
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "glob": "^7.0.3",
+    "less": "^2.6.1",
+    "less-loader": "^2.2.3",
+    "path": "^0.12.7",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.12.14"
+  }
+}
