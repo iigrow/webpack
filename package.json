@@ -22,8 +22,10 @@
   "homepage": "https://github.com/iigrow/webpackdemo#readme",
   "devDependencies": {
     "css-loader": "^0.23.1",
+    "exports-loader": "^0.6.3",
     "extract-text-webpack-plugin": "^1.0.1",
     "glob": "^7.0.3",
+    "imports-loader": "^0.6.5",
     "less": "^2.6.1",
     "less-loader": "^2.2.3",
     "path": "^0.12.7",
